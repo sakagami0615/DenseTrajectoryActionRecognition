@@ -1,0 +1,3 @@
+[submodule "DenseTrajectory-python"]
+	path = DenseTrajectory-python
+	url = https://github.com/sakagami0615/DenseTrajectory-python.git
